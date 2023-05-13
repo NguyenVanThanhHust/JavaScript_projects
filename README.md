@@ -1,1 +1,1 @@
-# Javascritps_Projects
+# Javascript_Projects
